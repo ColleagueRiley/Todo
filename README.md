@@ -11,9 +11,6 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 - Ensure EGL support works (low priority)
 - WebASM support? (low priority)
 
-# PureDOOM-RGFW
-- update RGFW
-
 # RSGL-DOOM
 - update RSGL
 - test more on multi-platforms
@@ -21,10 +18,6 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 
 # PureDuke.h
 - actually start programming it 
-
-# Raylib 
-- The RGFW platform PR
-- Do PR for RLGL -> replace GLAD with internal system
 
 # RGL
 - Add EBO for QUADS
