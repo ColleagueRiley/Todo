@@ -3,8 +3,6 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 
 # RSGL
 - Ensure all features are working properly
-- Update RGFW 
-- Make sure the dynamic features work (no RGFW, feature removal, etc)
 
 # RGFW
 - MacOS Drag & Drop
@@ -15,6 +13,7 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 - update RSGL
 - test more on multi-platforms
 - add new features (low priority) 
+- update UI
 
 # PureDuke.h
 - actually start programming it 
