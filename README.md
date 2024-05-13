@@ -2,7 +2,7 @@
 A place to put my programming-related to-do list. This is mainly for me (and anyone interested)
 
 # RSGL
-- Ensure all features are working properly
+- selecting text (with keyboard and mouse)
 
 # RGFW
 - MacOS Drag & Drop
