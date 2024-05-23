@@ -2,9 +2,9 @@
 A place to put my programming-related to-do list. This is mainly for me (and anyone interested)
 
 # RSGL
-- review widget code
 - update readme
 - selecting text (with keyboard and mouse)
+- review widget code (mid priority)
 
 # RGFW
 - Code Review (mid priority)
