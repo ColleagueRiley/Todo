@@ -2,13 +2,11 @@
 A place to put my programming-related to-do list. This is mainly for me (and anyone interested)
 
 # RSGL
-- update readme
-- selecting text (with keyboard and mouse)
+- selecting text (with keyboard and mouse) (low priority)
 - review widget code (mid priority)
 
 # RGFW
-- Code Review (mid priority)
-- Review Readme (low priority)
+- Full Code Review (mid priority)
 - MacOS Drag & Drop
 - WebASM support? (low priority)
 
@@ -21,9 +19,11 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 - add new features (low priority) 
 - update UI
 - add/check custom shader options (low priority)
+- change miniaudio to sokol_audio.h
 
 # RGFW-DOOM
 - update RGFW
+- change miniaudio to sokol_audio.h
 
 # PureDuke.h
 - actually start programming it 
