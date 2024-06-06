@@ -11,7 +11,7 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 - WebASM support? (low priority)
 
 # RFont
-- fix minor issues
+
 
 # RSGL-DOOM
 - update RSGL   
@@ -28,11 +28,6 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 # PureDuke.h
 - actually start programming it 
 
-# RGL
-- Add EBO for QUADS
-- Ensure 3D rendering works
-- add/check custom shader options (low priority)
-
 # Aricuit-Sim 
 - Work on this more at some point (more bullets to be added)
 
@@ -43,7 +38,6 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 update RSGL on all other projects that use it 
 
 # Ideas / cool things to look into
-- try some more shader programming 
 - network programming (simple 2D multi-player game)
 - RSGL-Engine (basic game engine using RSGL for RSGL)
 - Lonic game
