@@ -7,7 +7,6 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 
 # RGFW
 - Full Code Review (mid priority)
-- MacOS Drag & Drop
 - WebASM support? (low priority)
 
 # RFont
@@ -39,5 +38,4 @@ update RSGL on all other projects that use it
 
 # Ideas / cool things to look into
 - network programming (simple 2D multi-player game)
-- RSGL-Engine (basic game engine using RSGL for RSGL)
 - Lonic game
