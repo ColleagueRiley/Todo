@@ -6,8 +6,8 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 - review widget code (mid priority)
 
 # RGFW
-- Full Code Review (mid priority)
-- WebASM support? (low priority)
+- WebASM support
+- silk example 
 
 # RFont
 
@@ -30,12 +30,8 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 # Aricuit-Sim 
 - Work on this more at some point (more bullets to be added)
 
-# Raylib
-- update RGFW at some point
-
 # other
 update RSGL on all other projects that use it 
 
 # Ideas / cool things to look into
-- network programming (simple 2D multi-player game)
 - Lonic game
