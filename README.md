@@ -3,11 +3,8 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 
 # RSGL
 - selecting text (with keyboard and mouse) (low priority)
-- review widget code (mid priority)
 
 # RGFW
-- WebASM support
-- silk example 
 
 # RFont
 
@@ -18,14 +15,16 @@ A place to put my programming-related to-do list. This is mainly for me (and any
 - add new features (low priority) 
 - update UI
 - add/check custom shader options (low priority)
-- change miniaudio to sokol_audio.h
+- change to siliaudio (if/when that's ready for use)
 
 # RGFW-DOOM
-- update RGFW
-- change miniaudio to sokol_audio.h
+- change to siliaudio (if/when that's ready for use)
 
 # PureDuke.h
 - actually start programming it 
+
+# libpostal (postal 1 source port library)
+- keep working on it
 
 # Aricuit-Sim 
 - Work on this more at some point (more bullets to be added)
